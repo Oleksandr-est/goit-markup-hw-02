@@ -6,16 +6,18 @@
 
 body {
 font-family: 'Roboto', sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 }
 
 /**---------------header----------------------------*/
 
 .header-logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway' sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1,16;
+    line-height: 1,17;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -76,12 +78,10 @@ ul {
 }
 
 .hero-btn {
-        font-family: 'Roboto';
+        font-family: 'Roboto' sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 1,5;
-        display: flex;
-        align-items: center;
         letter-spacing: 0.04em;
         color: #FFFFFF;
         background-color: #4D5AE5;
@@ -122,7 +122,6 @@ ul {
             font-weight: 700;
             font-size: 36px;
             line-height: 1,11;
-            text-align: center;
             letter-spacing: 0.02em;
             text-transform: capitalize;
             color: #2E2F42;
@@ -149,8 +148,6 @@ ul {
      font-size: 18px;
      line-height: 1,16;
      text-decoration: none;
-     display: flex;
-     align-items: center;
      letter-spacing: 0.03em;
      text-transform: uppercase;
      color: #4D5AE5;
@@ -173,19 +170,19 @@ ul {
 
 
 /*------------------portfolio.html---------------*/
-
+body {
+    color: #434455;
+}
 
     /**----------------header--------------------*/
 
     .header-logo {
-        font-family: 'Raleway';
+        font-family: 'Raleway' sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
-        line-height: 1,16;
+        line-height: 1,17;
         text-decoration: none;
-        display: flex;
-        align-items: center;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4D5AE5;
@@ -238,8 +235,6 @@ ul {
             font-weight: 500;
             font-size: 16px;
             line-height: 1,5;
-            display: flex;
-            align-items: center;
             text-align: center;
             letter-spacing: 0.04em;
             color: #4D5AE5;      
@@ -251,9 +246,6 @@ ul {
             font-weight: 500;
             font-size: 16px;
             line-height: 1,5;
-            display: flex;
-            align-items: center;
-            text-align: center;
             letter-spacing: 0.04em;
             color: #FFFFFF;
             background-color: #4D5AE5;
@@ -295,14 +287,12 @@ ul {
  }
 
  .footer-logo {
-font-family: 'Raleway';
+font-family: 'Raleway' sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1,16;
+    line-height: 1,17;
     text-decoration: none;
-    display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
