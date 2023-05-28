@@ -10,6 +10,7 @@ color: #434455;
 background-color: #FFFFFF;
 }
 
+
 /**---------------header----------------------------*/
 
 .link {
@@ -17,7 +18,16 @@ background-color: #FFFFFF;
 }
 
 .list {
-    list-style: none;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-logo,
+.footer-logo {
+    font-family: 'Raleway', sans-serif;
 }
 
 .header-logo {
@@ -88,7 +98,7 @@ ul {
 
 
 .hero-btn {
-        font-family: 'Roboto', sans-serif;
+        font-family: inherit;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -186,6 +196,11 @@ ul {
 /*------------------portfolio.html---------------*/
 body {
     color: #434455;
+    background-color: #F4F4FD;
+}
+
+button {
+    color: #4d5ae5;
 }
 
     /**----------------header--------------------*/
