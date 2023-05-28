@@ -14,10 +14,9 @@ background-color: #FFFFFF;
 
 .header-logo {
     font-family: 'Raleway' sans-serif;
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1,17;
+    line-height: 1.17;
     text-decoration: none;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -34,10 +33,9 @@ ul {
 
 .header-menu-link {
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     text-decoration: none;
     letter-spacing: 0.02em;
     color: #2E2F42;
@@ -50,10 +48,9 @@ ul {
 
 .header-address-link {
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
@@ -69,7 +66,7 @@ ul {
 .title {
         font-weight: 700;
         font-size: 56px;
-        line-height: 1,07;
+        line-height: 1.07;
         text-align: center;
         letter-spacing: 0.02em;
         color: #FFFFFF;
@@ -79,10 +76,11 @@ ul {
         font-family: 'Roboto' sans-serif;
         font-weight: 500;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.04em;
         color: #FFFFFF;
         background-color: #4D5AE5;
+        
 }
 
 .hero-btn:hover,
@@ -97,7 +95,7 @@ ul {
 .subtitle-personal {
         font-weight: 500;
         font-size: 20px;
-        line-height: 1,2;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2E2F42;
 }
@@ -108,7 +106,7 @@ ul {
 .personal-job {
         font-weight: 400;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
@@ -119,7 +117,7 @@ ul {
 .title-personal {
             font-weight: 700;
             font-size: 36px;
-            line-height: 1,11;
+            line-height: 1.11;
             letter-spacing: 0.02em;
             text-transform: capitalize;
             color: #2E2F42;
@@ -144,7 +142,7 @@ ul {
      font-style: normal;
      font-weight: 800;
      font-size: 18px;
-     line-height: 1,16;
+     line-height: 1.16;
      text-decoration: none;
      letter-spacing: 0.03em;
      text-transform: uppercase;
@@ -159,7 +157,7 @@ ul {
  .footer-text {
      font-weight: 400;
      font-size: 16px;
-     line-height: 1,5;
+     line-height: 1.5;
      letter-spacing: 0.02em;
 
      color: #F4F4FD;
@@ -179,7 +177,7 @@ body {
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
-        line-height: 1,17;
+        line-height: 1.17;
         text-decoration: none;
         letter-spacing: 0.03em;
         text-transform: uppercase;
@@ -199,7 +197,7 @@ body {
             font-style: normal;
             font-weight: 500;
             font-size: 16px;
-            line-height: 1,5;
+            line-height: 1.5;
             text-decoration: none;
             letter-spacing: 0.02em;
             color: #2E2F42;
@@ -215,7 +213,7 @@ body {
             font-style: normal;
             font-weight: 400;
             font-size: 16px;
-            line-height: 1,5;
+            line-height: 1.5;
             letter-spacing: 0.02em;
             color: #434455;
     }
@@ -232,7 +230,7 @@ body {
             font-style: normal;
             font-weight: 500;
             font-size: 16px;
-            line-height: 1,5;
+            line-height: 1.5;
             letter-spacing: 0.04em;
             color: #4D5AE5;      
     }
@@ -242,7 +240,7 @@ body {
             font-style: normal;
             font-weight: 500;
             font-size: 16px;
-            line-height: 1,5;
+            line-height: 1.5;
             letter-spacing: 0.04em;
             color: #FFFFFF;
             background-color: #4D5AE5;
@@ -264,7 +262,7 @@ body {
     h2 {
         font-weight: 500;
         font-size: 20px;
-        line-height: 1,2;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2E2F42;
     }
@@ -272,7 +270,7 @@ body {
     .images-topic {
         font-weight: 400;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
  }
@@ -288,7 +286,7 @@ font-family: 'Raleway' sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1,17;
+    line-height: 1.17;
     text-decoration: none;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -303,7 +301,7 @@ font-family: 'Raleway' sans-serif;
 .footer-text {
        font-weight: 400;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
     
         color: #F4F4FD;
