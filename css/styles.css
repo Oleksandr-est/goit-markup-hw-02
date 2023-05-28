@@ -2,6 +2,7 @@
 :root {
     --title-color: #2E2F42;
     --main-text-color: #434455;
+    --background-color: #FFFFFF;
 }
 
 body {
@@ -198,6 +199,7 @@ ul {
     --color-button: #4d5ae5;
     --background-button: #F4F4FD;
     --main-text-color: #434455;
+    --background-color: #FFFFFF;
 }
 
 
@@ -272,8 +274,8 @@ body {
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.04em;
-            color: #4D5AE5;      
-            background-color: #F4F4FD;
+            color: var(--color-button);      
+            background-color: var(--background-button);
         cursor: pointer;
         }
     
