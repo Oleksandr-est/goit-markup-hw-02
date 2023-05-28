@@ -22,9 +22,7 @@ background-color: #FFFFFF;
     list-style-type: none;
 }
 
-a {
-    text-decoration: none;
-}
+
 
 .header-logo,
 .footer-logo {
@@ -212,7 +210,13 @@ body {
     background-color: #F4F4FD;
 }
 
+.link {
+    text-decoration: none;
+}
 
+.list {
+    list-style-type: none;
+}
     /**----------------header--------------------*/
      
     
