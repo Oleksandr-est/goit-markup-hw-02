@@ -221,7 +221,7 @@ body {
         color: #404BBF;
     }
     
-    .header-address-link {
+    .header-address {
         font-family: 'Roboto';
             font-style: normal;
             font-weight: 400;
@@ -246,9 +246,12 @@ body {
             line-height: 1.5;
             letter-spacing: 0.04em;
             color: #4D5AE5;      
-    }
+            background-color: #F4F4FD;
+        cursor: pointer;
+        }
     
-    .hero-button-all {
+
+        .hero-button-all {
         font-family: inherit;
             font-style: normal;
             font-weight: 500;
@@ -257,7 +260,8 @@ body {
             letter-spacing: 0.04em;
             color: #FFFFFF;
             background-color: #4D5AE5;
-    }
+            cursor: pointer;
+        }
     
     .hero-button-all:hover,
     .hero-button-all:focus {
