@@ -195,6 +195,9 @@ ul {
 
 
 /*------------------portfolio.html---------------*/
+
+
+
 :root {
     --color-button: #4d5ae5;
     --background-button: #F4F4FD;
@@ -204,7 +207,7 @@ ul {
 
 
 body {
-    font-family: 'roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #F4F4FD;
 }
