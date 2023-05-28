@@ -8,7 +8,7 @@
 body {
 font-family: 'Roboto', sans-serif;
 color: #434455;
-background-color: #FFFFFF;
+background-color: var(--background-color);
 }
 
 
@@ -274,6 +274,25 @@ body {
      
     /**---------------------main-buttons--------------------*/
     
+   
+    .hero-button-all {
+        font-family: inherit;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            color: var(--color-button);
+            background-color: var(--background-button);
+            cursor: pointer;
+        }
+    
+    .hero-button-all:hover,
+    .hero-button-all:focus {
+        color: #FFFFFF;
+        background-color: #404BBF;
+    }
+    
     .hero-button {
         font-family: inherit;
             font-style: normal;
@@ -285,24 +304,6 @@ body {
             background-color: var(--background-button);
         cursor: pointer;
         }
-    
-
-        .hero-button-all {
-        font-family: inherit;
-            font-style: normal;
-            font-weight: 500;
-            font-size: 16px;
-            line-height: 1.5;
-            letter-spacing: 0.04em;
-            color: #FFFFFF;
-            background-color: #4D5AE5;
-            cursor: pointer;
-        }
-    
-    .hero-button-all:hover,
-    .hero-button-all:focus {
-        color: #404BBF;
-    }
     
     .hero-button:hover,
     .hero-button:focus {
