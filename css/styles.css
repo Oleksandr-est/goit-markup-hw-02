@@ -276,7 +276,7 @@ body {
     
    
     
-    .hero-button {
+    .hero-button-all {
         font-family: inherit;
             font-style: normal;
             font-weight: 500;
@@ -288,12 +288,83 @@ body {
         cursor: pointer;
         }
     
-    .hero-button:hover,
-    .hero-button:focus {
+    .hero-button-all:hover,
+    .hero-button-all:focus {
         background-color: #404BBF; 
         color: #FFFFFF;
     }
+   .hero-button-web {
+       font-family: inherit;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 16px;
+       line-height: 1.5;
+       letter-spacing: 0.04em;
+       color: var(--color-button);
+       background-color: var(--background-button);
+       cursor: pointer;
+   }
    
+   .hero-button-web:hover,
+   .hero-button-web:focus {
+       background-color: #404BBF;
+       color: #FFFFFF;
+   }
+   
+   .hero-button-app {
+       font-family: inherit;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 16px;
+       line-height: 1.5;
+       letter-spacing: 0.04em;
+       color: var(--color-button);
+       background-color: var(--background-button);
+       cursor: pointer;
+   }
+
+   .hero-button-app:hover,
+   .hero-button-app:focus {
+       background-color: #404BBF;
+       color: #FFFFFF;
+   }
+   
+   .hero-button-design {
+       font-family: inherit;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 16px;
+       line-height: 1.5;
+       letter-spacing: 0.04em;
+       color: var(--color-button);
+       background-color: var(--background-button);
+       cursor: pointer;
+   }
+   
+   .hero-button-design:hover,
+   .hero-button-design:focus {
+       background-color: #404BBF;
+       color: #FFFFFF;
+   }
+   
+   .hero-button-marketing {
+       font-family: inherit;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 16px;
+       line-height: 1.5;
+       letter-spacing: 0.04em;
+       color: var(--color-button);
+       background-color: var(--background-button);
+       cursor: pointer;
+   }
+
+   .hero-button-marketing:hover,
+   .hero-button-marketing:focus {
+       background-color: #404BBF;
+       color: #FFFFFF;
+   }
+
     /**----------------------ouer offers------------------*/
     
     h2 {
