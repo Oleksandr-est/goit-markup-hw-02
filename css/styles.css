@@ -1,12 +1,16 @@
 /*------------------index.html-------------------*/
-:root {
-    --title-color: #2E2F42;
-    --main-text-color: #434455;
-    --background-color: #FFFFFF;
-}
+            /*:root {
+                --title-color: #2E2F42;
+                --main-text-color: #434455;
+                --background-color: #FFFFFF;
+                --color-button: #4d5ae5;
+                    --background-button: #F4F4FD;
+                
+                
+            }*/
 
 body {
-font-family: 'Roboto', sans-serif;
+font-family: 'Roboto', sans-serif
 color: #434455;
 background-color: #FFFFFF;
 }
@@ -102,8 +106,8 @@ ul {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        color: #FFFFFF;
-        background-color: #4D5AE5;
+        color: var(--background-color);
+        background-color: var(--color-button);
         cursor: pointer;
 }
 
@@ -206,8 +210,8 @@ ul {
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #434455;
-    background-color: #F4F4FD;
+    color: var(--main-text-color);
+    background-color: var(--background-button);
 }
 
 .link {
@@ -274,7 +278,7 @@ body {
      
     /**---------------------main-buttons--------------------*/
     
-  
+    
     
                 .hero-button-all {
                     font-family: inherit;
@@ -294,7 +298,7 @@ body {
                     color: #FFFFFF;
                 }
         
-                .hero-button-web {
+                /*.hero-button-web {
                     font-family: inherit;
                     font-style: normal;
                     font-weight: 500;
@@ -364,7 +368,7 @@ body {
                 .hero-button-marketing:focus {
                     background-color: #404BBF;
                     color: #FFFFFF;
-                }
+                }/
 
     /**----------------------ouer offers------------------*/
     
