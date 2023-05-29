@@ -10,9 +10,9 @@
             }*/
 
 body {
-font-family: 'Roboto', sans-serif
+font-family: 'Roboto', sans-serif;
 color: #434455;
-background-color: #FFFFFF;
+background-color:red;
 }
 
 
@@ -208,11 +208,7 @@ ul {
 }
 
 
-body {
-    font-family: 'Roboto', sans-serif;
-    color: var(--main-text-color);
-    background-color: var(--background-button);
-}
+
 
 .link {
     text-decoration: none;
